@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\Work\2 Курс\Логика и основы алгоритмизации в инженерных задачах\1 лаб раб\Project1\FileName.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+D:\Work\2 Курс\Логика и основы алгоритмизации в инженерных задачах\1 лаб раб\Project1\Debug\Project1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
