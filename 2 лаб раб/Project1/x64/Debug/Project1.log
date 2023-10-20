@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\Study\2 Курс\Логика и основы алгоритмизации в инженерных задачах\2 лаб раб\Project1\FileName.cpp(17,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Study\2 Курс\Логика и основы алгоритмизации в инженерных задачах\2 лаб раб\Project1\FileName.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> D:\Study\2 Курс\Логика и основы алгоритмизации в инженерных задачах\2 лаб раб\Project1\x64\Debug\Project1.exe
